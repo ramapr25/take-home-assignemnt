@@ -1,0 +1,5 @@
+# anthropic is held below 1.0: 1.x sends API version 2026-10-21, which rejects
+# `temperature`, and this pipeline sets temperature=0 on Haiku 4.5.
+anthropic>=0.82,<1
+python-dateutil>=2.8
+python-dotenv>=1.0

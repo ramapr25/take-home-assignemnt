@@ -1,0 +1,50 @@
+{"note_id": "N0002", "appliance_type": "water_heater", "model_number": "LWH-7979B", "problem_category": "leaking", "part_replaced": "none", "visit_date": "2026-04-20", "follow_up_needed": true}
+{"note_id": "N0017", "appliance_type": "dishwasher", "model_number": "LDW-7711B", "problem_category": "not_heating", "part_replaced": "control board", "visit_date": "2026-08-30", "follow_up_needed": false}
+{"note_id": "N0018", "appliance_type": "water_heater", "model_number": "LWH-9577A", "problem_category": "wont_start", "part_replaced": "none", "visit_date": "2026-05-23", "follow_up_needed": false}
+{"note_id": "N0034", "appliance_type": "refrigerator", "model_number": "LRF-3430", "problem_category": "door_or_latch", "part_replaced": "none", "visit_date": "2026-09-02", "follow_up_needed": false}
+{"note_id": "N0047", "appliance_type": "microwave", "model_number": "LMW-9805B", "problem_category": "wont_start", "part_replaced": "thermal fuse", "visit_date": "2026-08-25", "follow_up_needed": false}
+{"note_id": "N0066", "appliance_type": "microwave", "model_number": "LMW-8788", "problem_category": "not_heating", "part_replaced": "none", "visit_date": "2026-05-30", "follow_up_needed": true}
+{"note_id": "N0079", "appliance_type": "refrigerator", "model_number": "LRF-5421B", "problem_category": "wont_start", "part_replaced": "none", "visit_date": "2026-03-19", "follow_up_needed": true}
+{"note_id": "N0088", "appliance_type": "dryer", "model_number": "LDR-1604", "problem_category": "wont_start", "part_replaced": "thermal fuse", "visit_date": "2026-08-11", "follow_up_needed": false}
+{"note_id": "N0091", "appliance_type": "washer", "model_number": "LWM-2456A", "problem_category": "door_or_latch", "part_replaced": "door latch", "visit_date": "2026-04-21", "follow_up_needed": false}
+{"note_id": "N0109", "appliance_type": "dryer", "model_number": "LDR-9554B", "problem_category": "door_or_latch", "part_replaced": "door latch", "visit_date": "2026-07-13", "follow_up_needed": false}
+{"note_id": "N0129", "appliance_type": "refrigerator", "model_number": "LRF-9558", "problem_category": "leaking", "part_replaced": "door gasket", "visit_date": "2026-08-12", "follow_up_needed": false}
+{"note_id": "N0132", "appliance_type": "dishwasher", "model_number": "LDW-6650S", "problem_category": "wont_start", "part_replaced": "control board", "visit_date": "2026-04-07", "follow_up_needed": true}
+{"note_id": "N0138", "appliance_type": "microwave", "model_number": "LMW-4270B", "problem_category": "noise", "part_replaced": "none", "visit_date": "2026-08-30", "follow_up_needed": false}
+{"note_id": "N0149", "appliance_type": "microwave", "model_number": "LMW-3497B", "problem_category": "not_heating", "part_replaced": "control board", "visit_date": "2026-08-10", "follow_up_needed": false}
+{"note_id": "N0158", "appliance_type": "washer", "model_number": "LWM-4675S", "problem_category": "leaking", "part_replaced": "none", "visit_date": "2026-07-21", "follow_up_needed": false}
+{"note_id": "N0180", "appliance_type": "oven", "model_number": "LOV-2494", "problem_category": "wont_start", "part_replaced": "control board", "visit_date": "2026-08-20", "follow_up_needed": false}
+{"note_id": "N0204", "appliance_type": "refrigerator", "model_number": null, "problem_category": "door_or_latch", "part_replaced": "none", "visit_date": "2026-05-01", "follow_up_needed": false}
+{"note_id": "N0205", "appliance_type": "microwave", "model_number": "LMW-3298B", "problem_category": "door_or_latch", "part_replaced": "door latch", "visit_date": "2026-04-07", "follow_up_needed": false}
+{"note_id": "N0216", "appliance_type": "water_heater", "model_number": "LWH-8715B", "problem_category": "leaking", "part_replaced": "heating element", "visit_date": "2026-09-14", "follow_up_needed": false}
+{"note_id": "N0255", "appliance_type": "refrigerator", "model_number": "LRF-4860S", "problem_category": "wont_start", "part_replaced": "control board", "visit_date": "2026-07-03", "follow_up_needed": false}
+{"note_id": "N0262", "appliance_type": "refrigerator", "model_number": "LRF-7396", "problem_category": "leaking", "part_replaced": "door gasket", "visit_date": "2026-05-23", "follow_up_needed": false}
+{"note_id": "N0263", "appliance_type": "oven", "model_number": "LOV-4064B", "problem_category": "not_heating", "part_replaced": "heating element", "visit_date": "2026-05-31", "follow_up_needed": false}
+{"note_id": "N0268", "appliance_type": "refrigerator", "model_number": "LRF-1223A", "problem_category": "not_cooling", "part_replaced": "thermostat", "visit_date": "2026-06-17", "follow_up_needed": false}
+{"note_id": "N0273", "appliance_type": "dryer", "model_number": "LDR-5513A", "problem_category": "noise", "part_replaced": "none", "visit_date": "2026-03-29", "follow_up_needed": true}
+{"note_id": "N0274", "appliance_type": "oven", "model_number": "LOV-4759", "problem_category": "door_or_latch", "part_replaced": "none", "visit_date": "2026-08-07", "follow_up_needed": true}
+{"note_id": "N0280", "appliance_type": "refrigerator", "model_number": "LRF-5618B", "problem_category": "door_or_latch", "part_replaced": "none", "visit_date": "2026-03-28", "follow_up_needed": false}
+{"note_id": "N0283", "appliance_type": "refrigerator", "model_number": "LRF-5030", "problem_category": "door_or_latch", "part_replaced": "none", "visit_date": "2026-06-18", "follow_up_needed": true}
+{"note_id": "N0303", "appliance_type": "water_heater", "model_number": "LWH-1204S", "problem_category": "not_heating", "part_replaced": "heating element", "visit_date": "2026-07-14", "follow_up_needed": false}
+{"note_id": "N0307", "appliance_type": "oven", "model_number": "LOV-7532A", "problem_category": "not_heating", "part_replaced": "igniter", "visit_date": "2026-04-15", "follow_up_needed": false}
+{"note_id": "N0308", "appliance_type": "refrigerator", "model_number": "LRF-2588A", "problem_category": "door_or_latch", "part_replaced": "door gasket", "visit_date": "2026-08-18", "follow_up_needed": true}
+{"note_id": "N0310", "appliance_type": "dryer", "model_number": "LDR-1181S", "problem_category": "wont_start", "part_replaced": "door latch", "visit_date": "2026-09-08", "follow_up_needed": false}
+{"note_id": "N0325", "appliance_type": "oven", "model_number": "LOV-8599", "problem_category": "not_heating", "part_replaced": "heating element", "visit_date": "2026-03-20", "follow_up_needed": false}
+{"note_id": "N0330", "appliance_type": "water_heater", "model_number": "LWH-7848S", "problem_category": "leaking", "part_replaced": "heating element", "visit_date": "2026-08-09", "follow_up_needed": false}
+{"note_id": "N0349", "appliance_type": "washer", "model_number": "LWM-8388S", "problem_category": "door_or_latch", "part_replaced": "door latch", "visit_date": "2026-09-11", "follow_up_needed": false}
+{"note_id": "N0352", "appliance_type": "dishwasher", "model_number": "LDW-2197A", "problem_category": "not_heating", "part_replaced": "control board", "visit_date": "2026-03-25", "follow_up_needed": false}
+{"note_id": "N0354", "appliance_type": "dryer", "model_number": "LDR-7407S", "problem_category": "door_or_latch", "part_replaced": "none", "visit_date": "2026-05-29", "follow_up_needed": true}
+{"note_id": "N0358", "appliance_type": "microwave", "model_number": "LMW-1486A", "problem_category": "wont_start", "part_replaced": "door latch", "visit_date": "2026-05-18", "follow_up_needed": false}
+{"note_id": "N0364", "appliance_type": "refrigerator", "model_number": "LRF-4303A", "problem_category": "not_cooling", "part_replaced": "thermostat", "visit_date": "2026-05-12", "follow_up_needed": true}
+{"note_id": "N0376", "appliance_type": "microwave", "model_number": null, "problem_category": "noise", "part_replaced": "fan motor", "visit_date": "2026-03-25", "follow_up_needed": false}
+{"note_id": "N0388", "appliance_type": "washer", "model_number": "LWM-4858", "problem_category": "leaking", "part_replaced": "water inlet valve", "visit_date": "2026-08-13", "follow_up_needed": false}
+{"note_id": "N0390", "appliance_type": "water_heater", "model_number": "LWH-3624", "problem_category": "not_heating", "part_replaced": "igniter", "visit_date": "2026-08-28", "follow_up_needed": false}
+{"note_id": "N0402", "appliance_type": "microwave", "model_number": "LMW-5193B", "problem_category": "door_or_latch", "part_replaced": "door latch", "visit_date": "2026-06-14", "follow_up_needed": true}
+{"note_id": "N0411", "appliance_type": "dishwasher", "model_number": "LDW-9721A", "problem_category": "noise", "part_replaced": "drain pump", "visit_date": "2026-03-27", "follow_up_needed": false}
+{"note_id": "N0435", "appliance_type": "oven", "model_number": "LOV-4246", "problem_category": "wont_start", "part_replaced": "door latch", "visit_date": "2026-09-11", "follow_up_needed": true}
+{"note_id": "N0449", "appliance_type": "dryer", "model_number": "LDR-2628B", "problem_category": "noise", "part_replaced": "none", "visit_date": "2026-08-22", "follow_up_needed": false}
+{"note_id": "N0461", "appliance_type": "washer", "model_number": "LWM-2457A", "problem_category": "noise", "part_replaced": "none", "visit_date": "2026-05-08", "follow_up_needed": true}
+{"note_id": "N0470", "appliance_type": "washer", "model_number": "LWM-4569B", "problem_category": "wont_start", "part_replaced": "control board", "visit_date": "2026-03-23", "follow_up_needed": true}
+{"note_id": "N0474", "appliance_type": "dryer", "model_number": "LDR-7512B", "problem_category": "door_or_latch", "part_replaced": "none", "visit_date": "2026-06-17", "follow_up_needed": true}
+{"note_id": "N0485", "appliance_type": "oven", "model_number": "LOV-1276", "problem_category": "wont_start", "part_replaced": "door latch", "visit_date": "2026-03-11", "follow_up_needed": true}
+{"note_id": "N0491", "appliance_type": "dishwasher", "model_number": "LDW-8816B", "problem_category": "leaking", "part_replaced": "none", "visit_date": "2026-03-13", "follow_up_needed": true}

@@ -1,0 +1,67 @@
+{
+  "note_fields": {
+    "note_id": "string",
+    "submitted_at": "ISO 8601 UTC timestamp when the technician submitted the note",
+    "text": "free-text technician note"
+  },
+  "extract_fields": {
+    "appliance_type": {
+      "type": "string",
+      "allowed": [
+        "dishwasher",
+        "dryer",
+        "microwave",
+        "oven",
+        "refrigerator",
+        "washer",
+        "water_heater"
+      ],
+      "definition": "the appliance that was serviced on this visit"
+    },
+    "model_number": {
+      "type": "string or null",
+      "definition": "the serviced unit's model number exactly as written (three letters, a hyphen, four digits, an optional letter); null when the note says it could not be read or found. Not a part or stock number"
+    },
+    "problem_category": {
+      "type": "string",
+      "allowed": [
+        "door_or_latch",
+        "error_code",
+        "leaking",
+        "noise",
+        "not_cooling",
+        "not_heating",
+        "wont_start"
+      ],
+      "definition": "the customer's reported symptom. Use error_code only when an error code is the only thing reported"
+    },
+    "part_replaced": {
+      "type": "string",
+      "allowed": [
+        "belt",
+        "compressor relay",
+        "control board",
+        "door gasket",
+        "door latch",
+        "drain pump",
+        "fan motor",
+        "heating element",
+        "igniter",
+        "thermal fuse",
+        "thermostat",
+        "water inlet valve",
+        "none"
+      ],
+      "definition": "the part actually installed on this visit; none if no part was installed (a part that was only ordered is none)"
+    },
+    "visit_date": {
+      "type": "string",
+      "format": "YYYY-MM-DD",
+      "definition": "the date of the visit; all visits are in 2026; resolve relative dates against submitted_at"
+    },
+    "follow_up_needed": {
+      "type": "boolean",
+      "definition": "true only when a return visit is scheduled or a part is on order; 'call us if it happens again' is false"
+    }
+  }
+}

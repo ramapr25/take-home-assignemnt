@@ -1,0 +1,30 @@
+{
+  "model": "claude-haiku-4-5",
+  "fallback_model": "claude-haiku-5-5",
+  "notes": 500,
+  "answered_by": {
+    "claude-haiku-4-5": 500,
+    "rules": 0
+  },
+  "calls": 500,
+  "input_tokens": 590506,
+  "output_tokens": 16474,
+  "cost_this_run_usd": 0.6729,
+  "cost_per_1000_notes_usd": 1.3458,
+  "per_model": {
+    "claude-haiku-4-5": {
+      "model": "claude-haiku-4-5",
+      "notes": 500,
+      "calls": 500,
+      "input_tokens": 590506,
+      "output_tokens": 16474,
+      "price_in_per_mtok": 1.0,
+      "price_out_per_mtok": 5.0,
+      "avg_input_tokens": 1181.0,
+      "avg_output_tokens": 32.9,
+      "cost_this_run_usd": 0.6729,
+      "cost_per_1000_notes_usd": 1.3458
+    }
+  },
+  "failures": []
+}
